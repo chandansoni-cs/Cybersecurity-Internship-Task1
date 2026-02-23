@@ -299,3 +299,87 @@ Prevention:-
 
 3.Keep software and systems updated
 
+
+
+***3.Attack Vectors***
+
+An attack vector is the method or pathway used by attackers to gain unauthorized access to a system, network, or data. Understanding attack vectors helps organizations strengthen their security defenses.
+
+**Social Engineering**
+
+Definition:- Social engineering is a technique where attackers manipulate people into revealing confidential information or performing actions that compromise security.
+
+Common Techniques:-
+
+Phishing emails
+
+Pretexting (fake identity or scenario)
+
+Baiting (offering something attractive to gain access)
+
+Tailgating (unauthorized physical access)
+
+Example:- An attacker calls an employee pretending to be from the IT department and asks for login credentials.
+
+Prevention:-
+
+ 1.Security awareness training
+
+ 2.Verification of identity before sharing information
+
+ 3.Strong access control policies
+
+**Wireless Attacks**
+
+Definition:- Wireless attacks target Wi-Fi networks and wireless communication systems to intercept or manipulate data.
+
+Common Types:-
+
+Evil Twin Attack (fake Wi-Fi access point)
+
+Man-in-the-Middle (MitM) attack
+
+Wi-Fi password cracking
+
+Packet sniffing
+
+Example:- An attacker sets up a fake public Wi-Fi network to capture users’ login credentials.
+
+Prevention:-
+
+ 1.Use strong Wi-Fi encryption (WPA3)
+
+ 2.Avoid public Wi-Fi for sensitive transactions
+
+ 3.Use VPN for secure communication
+
+ 4.Disable automatic Wi-Fi connections
+
+**Insider Threats**
+
+Definition:- An insider threat occurs when a person within an organization (employee, contractor, or partner) misuses their authorized access to harm the organization.
+
+Types:-
+
+Malicious insider (intentional harm)
+
+Negligent insider (careless behavior)
+
+Compromised insider (account hijacked by attackers)
+
+Example:- An employee leaks confidential company data to competitors.
+
+Prevention:-
+
+ 1.Role-based access control
+
+ 2.Monitoring and logging user activities
+
+ 3.Regular security audits
+
+ 4.Employee background verification
+
+Conclusion:-
+
+Attack vectors represent the entry points used by cybercriminals. Identifying and securing these vectors is essential for building a strong cybersecurity framework.
+
