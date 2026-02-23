@@ -491,9 +491,12 @@ Purpose:- Install and update packages.
 Example:-
 
 sudo apt update
+
 sudo apt install package-name
+
 sudo apt upgrade
-dpkg
+
+**dpkg**
 
 Purpose:- Manages individual .deb packages.
 
