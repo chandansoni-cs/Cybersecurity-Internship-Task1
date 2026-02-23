@@ -4,10 +4,14 @@ The objective of this task is to develop a strong foundation in cybersecurity co
 
 This task focuses on understanding the CIA Triad, common cyber threats, Linux fundamentals, networking basics, and encryption concepts. It also involves configuring a virtual environment using Kali Linux and a vulnerable target machine to perform controlled security testing.
 
+**Cyber Security**
+
 ***CIA Triad in Cyber Security***
+
 Introduction:-
 
 The CIA Triad is a fundamental concept in Cyber Security.
+
 CIA stands for:
 
 C – Confidentiality
@@ -53,6 +57,7 @@ Multi-Factor Authentication (MFA)
 Firewalls
 
 **Integrity**
+
 Meaning:
 
 Integrity ensures that data remains accurate and unchanged unless modified by authorized users.
