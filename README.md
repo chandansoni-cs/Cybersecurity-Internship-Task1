@@ -383,3 +383,171 @@ Conclusion:-
 
 Attack vectors represent the entry points used by cybercriminals. Identifying and securing these vectors is essential for building a strong cybersecurity framework.
 
+
+***Linux Fundamentals:-***
+
+Linux is an open-source operating system widely used in servers, cybersecurity, cloud computing, and development environments. Understanding basic Linux commands is essential for system administration and security tasks.
+
+**File System Commands**
+
+Linux follows a hierarchical file system structure starting from the root directory /.
+
+**pwd**
+
+Purpose: Displays the current working directory.
+
+Example:-
+
+pwd
+
+Use Case:- Helps users confirm their current location in the file system.
+
+**ls**
+
+Purpose:- Lists files and directories in the current location.
+
+Example:-
+
+ls
+ls -l
+ls -a
+
+Common Options:-
+
+-l : Detailed list format
+
+-a : Shows hidden files
+
+**cd**
+
+Purpose:- Changes the current directory.
+
+Example:-
+
+cd Documents
+cd ..
+cd /
+
+Common Usage:-
+
+cd .. → Move one directory up
+
+cd / → Go to root directory
+
+**File Permissions**
+
+Linux controls access to files using permissions for:
+
+Owner
+
+Group
+
+Others
+
+Permission types:-
+
+Read (r)
+
+Write (w)
+
+Execute (x)
+
+**chmod**
+
+Purpose:- Changes file permissions.
+
+Example:-
+
+chmod 755 filename
+chmod +x script.sh
+
+Explanation:-
+
+755 means full access for owner and read/execute for others.
+
++x adds execute permission.
+
+**chown**
+
+Purpose:- Changes file ownership.
+
+Example:-
+
+chown user filename
+chown user:group filename
+
+Use Case: Assigns file control to a specific user or group.
+
+**Package Management**
+
+Linux distributions use package managers to install, update, and remove software.
+
+**apt**
+
+Used in Debian-based systems (like Ubuntu).
+
+Purpose:- Install and update packages.
+
+Example:-
+
+sudo apt update
+sudo apt install package-name
+sudo apt upgrade
+dpkg
+
+Purpose:- Manages individual .deb packages.
+
+Example:-
+
+sudo dpkg -i package.deb
+dpkg -l
+
+Use Case:- Install or list locally downloaded packages.
+
+**Networking Commands**
+
+Networking commands help monitor and troubleshoot network connections.
+
+**ifconfig**
+
+Purpose:- Displays IP address and network interface details.
+
+Example:-
+
+ifconfig
+
+Use Case:- Check system IP address.
+
+**ping**
+
+Purpose:- Tests connectivity between systems.
+
+Example:-
+
+ping google.com
+
+Use Case:- Checks if a server or website is reachable.
+
+**netstat**
+
+Purpose:- Shows network connections, routing tables, and port status.
+
+Example:-
+
+netstat -tuln
+
+Use Case:- Identify open ports and active connections.
+
+**traceroute**
+
+Purpose:- Displays the path packets take to reach a destination.
+
+Example:
+
+traceroute google.com
+
+Use Case: Diagnose network routing issues.
+
+**Conclusion**
+
+These Linux fundamentals form the base for system administration and cybersecurity tasks. Mastering file system navigation, permissions, package management, and networking commands is essential for working in Linux environments.
