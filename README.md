@@ -174,9 +174,7 @@ Cyber threats are malicious activities designed to steal, damage, or disrupt dat
 
 **Phishing**
 
-Definition:-
-
-Phishing is a cyber attack in which attackers send fake emails, messages, or create fraudulent websites to trick users into revealing sensitive information.
+Definition:-  Phishing is a cyber attack in which attackers send fake emails, messages, or create fraudulent websites to trick users into revealing sensitive information.
 
 Target:-
 
@@ -206,15 +204,7 @@ Definition:-
 
 Malware (Malicious Software) is software intentionally designed to damage systems or gain unauthorized access.
 
-Types:-
-
-Virus
-
-Worm
-
-Trojan
-
-Spyware
+Types:- Virus,Worm,Trojan,Spyware
 
 Example:-
 
@@ -230,13 +220,9 @@ Prevention:-
 
 **DDoS (Distributed Denial of Service)**
 
-Definition:-
+Definition:- A DDoS attack overwhelms a server or network with massive traffic, making services unavailable to legitimate users.
 
-A DDoS attack overwhelms a server or network with massive traffic, making services unavailable to legitimate users.
-
-Goal:-
-
-Disrupt services and cause downtime.
+Goal:-  Disrupt services and cause downtime.
 
 Example:-
 
@@ -306,9 +292,7 @@ Definition:-
 
 Ransomware is a type of malware that encrypts a victim’s data and demands payment for decryption.
 
-Goal:-
-
-Financial extortion.
+Goal:- Financial extortion.
 
 Example:-
 
