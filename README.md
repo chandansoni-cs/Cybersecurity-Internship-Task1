@@ -198,11 +198,10 @@ Prevention:-
 
 3.Enable Multi-Factor Authentication (MFA)
 
+
 **Malware**
 
-Definition:-
-
-Malware (Malicious Software) is software intentionally designed to damage systems or gain unauthorized access.
+Definition:- Malware (Malicious Software) is software intentionally designed to damage systems or gain unauthorized access.
 
 Types:- Virus,Worm,Trojan,Spyware
 
@@ -238,9 +237,7 @@ Prevention:-
 
 **SQL Injection**
 
-Definition:-
-
-SQL Injection is an attack where malicious SQL queries are inserted into input fields to manipulate or access a database.
+Definition:- SQL Injection is an attack where malicious SQL queries are inserted into input fields to manipulate or access a database.
 
 Target:-
 
@@ -264,9 +261,7 @@ Prevention:-
 
 **Brute Force Attack**
 
-Definition:-
-
-A brute force attack attempts to gain access by systematically trying multiple password combinations.
+Definition:- A brute force attack attempts to gain access by systematically trying multiple password combinations.
 
 Target:-
 
@@ -288,9 +283,7 @@ Prevention:-
 
 **Ransomware**
 
-Definition:-
-
-Ransomware is a type of malware that encrypts a victim’s data and demands payment for decryption.
+Definition:- Ransomware is a type of malware that encrypts a victim’s data and demands payment for decryption.
 
 Goal:- Financial extortion.
 
