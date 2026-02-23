@@ -4,7 +4,7 @@ The objective of this task is to develop a strong foundation in cybersecurity co
 
 This task focuses on understanding the CIA Triad, common cyber threats, Linux fundamentals, networking basics, and encryption concepts. It also involves configuring a virtual environment using Kali Linux and a vulnerable target machine to perform controlled security testing.
 
-**Cyber Security**
+**Cyber Security :-**
 
 ***CIA Triad in Cyber Security***
 
@@ -24,37 +24,37 @@ It defines the three core principles that ensure information security in any sys
 
 **Confidentiality**
 
-Meaning:
+ Meaning:
 
-Confidentiality ensures that sensitive information is accessible only to authorized users.
+  Confidentiality ensures that sensitive information is accessible only to authorized users.
 
-Goal:
+ Goal:
 
-Prevent unauthorized access to data.
+  Prevent unauthorized access to data.
 
-Examples:
+ Examples:
 
-Password protection
+  Password protection
 
-OTP authentication
+  OTP authentication
 
-Encryption (AES, RSA)
+  Encryption (AES, RSA)
 
-Biometric authentication
+  Biometric authentication
 
-Real Life Example:
+ Real Life Example:
 
-When you log in to your Gmail account, only you should access your emails.
+  When you log in to your Gmail account, only you should access your emails.
 
-Techniques Used:
+ Techniques Used:
 
-Encryption
+  Encryption
 
-Access Control
+  Access Control
 
-Multi-Factor Authentication (MFA)
+  Multi-Factor Authentication (MFA)
 
-Firewalls
+  Firewalls
 
 **Integrity**
 
