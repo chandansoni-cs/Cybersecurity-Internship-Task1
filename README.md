@@ -1,5 +1,5 @@
 # Cybersecurity-Internship-Task1
-Task-1: Foundation & Environment Setup – Objective
+Objective:- Foundation & Environment Setup 
 
 The objective of this task is to develop a strong foundation in cybersecurity concepts, networking principles, and cryptography while setting up a professional virtual lab environment for ethical hacking practice.
 
