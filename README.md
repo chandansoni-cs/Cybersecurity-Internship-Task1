@@ -78,7 +78,7 @@ Server Clustering
 **Why CIA Triad is Important?**
 
 Without CIA Triad:
-Data can be stolen 
+Data can be stolen
 Data can be modified 
 Systems can go down 
 
