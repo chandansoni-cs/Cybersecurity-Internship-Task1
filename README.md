@@ -744,3 +744,36 @@ Packet analysis
 Detecting cyber attacks
 
 Securing network communication
+
+
+**3.DNS (Domain Name System)**
+
+Definition:- DNS (Domain Name System) is a system that converts human-readable domain names into IP addresses.
+
+Purpose:- Computers communicate using IP addresses, but humans use domain names. DNS translates domain names into IP addresses so computers can locate each other.
+
+Example
+
+When you enter:
+
+www.google.com
+
+DNS converts it into an IP address like:
+
+142.250.182.14
+
+How DNS Works
+
+User enters a domain name in the browser
+
+DNS server receives the request
+
+DNS finds the corresponding IP address
+
+The browser connects to the server using that IP address
+
+**Importance in Cybersecurity**
+
+Helps identify legitimate servers
+
+Attackers may use DNS spoofing to redirect users to fake websites
