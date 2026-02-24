@@ -554,3 +554,193 @@ Use Case: Diagnose network routing issues.
 **Conclusion**
 
 These Linux fundamentals form the base for system administration and cybersecurity tasks. Mastering file system navigation, permissions, package management, and networking commands is essential for working in Linux environments.
+
+
+***Networking Basics***
+
+Networking is the process of connecting computers and devices to share data and resources. It is a fundamental concept in cybersecurity and system communication.
+
+
+**OSI Model (Open Systems Interconnection Model)**
+
+The OSI Model is a conceptual framework used to understand how data is transmitted over a network. It consists of 7 layers, each with a specific function.
+
+**1. Physical Layer**
+
+Purpose: The Physical Layer is responsible for transmitting raw bits over a physical medium.
+
+Functions:
+
+Data transmission through cables or wireless signals
+
+Defines hardware elements such as cables, switches, and connectors
+
+Examples:
+
+Ethernet cable
+
+USB cable
+
+Network interface card (NIC)
+
+**2. Data Link Layer**
+
+Purpose: The Data Link Layer ensures reliable data transfer between two directly connected devices.
+
+Functions:
+
+Error detection and correction
+
+Frame formatting
+
+MAC address handling
+
+Examples:
+
+Switches
+
+MAC addresses
+
+Ethernet protocol
+
+**3. Network Layer**
+
+Purpose: The Network Layer handles logical addressing and routing of data between different networks.
+
+Functions:
+
+Assigns IP addresses
+
+Determines the best path for data transmission
+
+Examples:
+
+IP (Internet Protocol)
+
+Routers
+
+**4. Transport Layer**
+
+Purpose: The Transport Layer ensures reliable data delivery between sender and receiver.
+
+Functions:
+
+Data segmentation and reassembly
+
+Error checking
+
+Flow control
+
+Examples:
+
+TCP (Transmission Control Protocol)
+
+UDP (User Datagram Protocol)
+
+**5. Session Layer**
+
+Purpose: The Session Layer manages communication sessions between devices.
+
+Functions:
+
+Establishes, maintains, and terminates sessions
+
+Controls connections between applications
+
+Example:
+
+Session management in applications
+
+**6. Presentation Layer**
+
+Purpose: The Presentation Layer ensures data is in a readable format for the application layer.
+
+Functions:
+
+Data encryption and decryption
+
+Data compression
+
+Data format conversion
+
+Examples:
+
+SSL/TLS encryption
+
+Data encoding formats
+
+**7. Application Layer**
+
+Purpose: The Application Layer provides network services directly to users and applications.
+
+Functions:
+
+Enables user interaction with network services
+
+Provides communication interfaces
+
+Examples:
+
+HTTP
+
+HTTPS
+
+FTP
+
+DNS
+
+**2.TCP/IP Protocol**
+
+Definition :- TCP/IP (Transmission Control Protocol / Internet Protocol) is the main communication protocol used for transmitting data over the internet and networks.
+
+It defines how data is sent, received, and routed between devices.
+
+Components of TCP/IP
+
+TCP (Transmission Control Protocol)
+
+Purpose: Ensures reliable and secure data transmission.
+
+Functions:
+
+Breaks data into packets
+
+Ensures packets arrive correctly
+
+Reassembles packets at destination
+
+Example:- Used in web browsing, email, and file transfers.
+
+**IP (Internet Protocol)**
+
+Purpose: Provides logical addressing and routing.
+
+Functions:
+
+Assigns unique IP addresses
+
+Routes packets to the correct destination
+
+Example:- Every device connected to the internet has an IP address.
+
+How TCP/IP Works:
+
+Data is divided into packets by TCP
+
+IP assigns source and destination addresses
+
+Packets travel through the network
+
+TCP reassembles packets at the destination
+
+**Importance in Cybersecurity**
+
+TCP/IP is essential because attackers often target network communication. Understanding TCP/IP helps in:
+
+Network monitoring
+
+Packet analysis
+
+Detecting cyber attacks
+
+Securing network communication
