@@ -388,7 +388,7 @@ Attack vectors represent the entry points used by cybercriminals. Identifying an
 
 Linux is an open-source operating system widely used in servers, cybersecurity, cloud computing, and development environments. Understanding basic Linux commands is essential for system administration and security tasks.
 
-**File System Commands**
+**1. File System Commands**
 
 Linux follows a hierarchical file system structure starting from the root directory /.
 
@@ -434,7 +434,7 @@ cd .. → Move one directory up
 
 cd / → Go to root directory
 
-**File Permissions**
+**2.File Permissions**
 
 Linux controls access to files using permissions for:
 
@@ -478,7 +478,7 @@ chown user:group filename
 
 Use Case: Assigns file control to a specific user or group.
 
-**Package Management**
+**3.Package Management**
 
 Linux distributions use package managers to install, update, and remove software.
 
@@ -507,7 +507,7 @@ dpkg -l
 
 Use Case:- Install or list locally downloaded packages.
 
-**Networking Commands**
+**3.Networking Commands**
 
 Networking commands help monitor and troubleshoot network connections.
 
