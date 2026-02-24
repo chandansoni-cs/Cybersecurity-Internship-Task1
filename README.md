@@ -1002,7 +1002,7 @@ SHA-1
 
 SHA-256
 
-**3. SSL/TLS (Secure Sockets Layer / Transport Layer Security)**
+**4. SSL/TLS (Secure Sockets Layer / Transport Layer Security)**
 
 Definition:- SSL/TLS is a protocol used to secure communication between a client and a server by encrypting data.
 
