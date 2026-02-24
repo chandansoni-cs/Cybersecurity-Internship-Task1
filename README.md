@@ -777,3 +777,112 @@ The browser connects to the server using that IP address
 Helps identify legitimate servers
 
 Attackers may use DNS spoofing to redirect users to fake websites
+
+
+**4.HTTP AND HTTPS**
+
+**HTTP (HyperText Transfer Protocol)**
+
+Definition:- HTTP is a protocol used for communication between web browsers and web servers.
+
+Features:
+
+Data is transmitted in plain text
+
+Not secure
+
+Vulnerable to interception
+
+Example:
+
+http://example.com
+
+**HTTPS (HyperText Transfer Protocol Secure)**
+
+Definition:- HTTPS is the secure version of HTTP. It uses SSL/TLS encryption to protect data.
+
+Features:
+
+Data is encrypted
+
+Secure communication
+
+Protects sensitive information
+
+Example:
+
+https://example.com
+
+**Importance in Cybersecurity**
+
+HTTPS protects:
+
+Passwords
+
+Credit card details
+
+Personal data
+
+**5.IP Address (Internet Protocol Address)**
+
+Definition:- An IP Address is a unique numerical identifier assigned to each device on a network.
+
+Purpose:- It helps devices identify and communicate with each other.
+
+Example:- 192.168.1.1
+
+Types of IP Address:- 1. Private IP Address
+
+Used inside local networks.
+
+Example:- 192.168.1.1
+
+2. Public IP Address
+
+Used on the internet.
+
+Example:- 8.8.8.8
+
+**Importance in Cybersecurity**
+
+Helps track devices
+
+Used in network monitoring
+
+Helps detect unauthorized access
+
+**6. NAT (Network Address Translation)**
+
+Definition:- NAT (Network Address Translation) converts private IP addresses into public IP addresses to enable communication over the internet.
+
+Purpose:- Allows multiple devices in a private network to share a single public IP address.
+
+Example
+
+Private IP:
+
+192.168.1.10
+
+Converted into Public IP:
+
+49.36.120.15
+
+How NAT Works
+
+Device sends request using private IP
+
+Router converts private IP into public IP
+
+Request goes to the internet
+
+Response returns to the router
+
+Router converts public IP back to private IP
+
+**Importance in Cybersecurity**
+
+Hides internal network structure
+
+Adds an extra layer of security
+
+Helps prevent direct attacks on private devices
