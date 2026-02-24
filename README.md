@@ -886,3 +886,154 @@ Hides internal network structure
 Adds an extra layer of security
 
 Helps prevent direct attacks on private devices
+
+
+***Cryptography Basics***
+
+Cryptography is the practice of securing information by converting it into an unreadable format. It ensures data confidentiality, integrity, and authentication. Cryptography is widely used in cybersecurity to protect sensitive information.
+
+**1. Symmetric Encryption**
+
+Definition:- Symmetric encryption is a method where the same key is used for both encryption and decryption of data.
+
+How It Works
+
+Plain text is converted into cipher text using a secret key
+
+The same secret key is used to convert cipher text back into plain text
+
+Example
+
+Plain Text:
+
+HELLO
+
+Encrypted using key:
+
+SecretKey
+
+Decrypted using the same key:
+
+HELLO
+
+Advantages:-
+
+Fast and efficient
+
+Suitable for encrypting large amounts of data
+
+Disadvantages:-
+
+Key sharing is risky
+
+If the key is stolen, data can be accessed
+
+Examples of Symmetric Algorithms:-
+
+AES (Advanced Encryption Standard)
+
+DES (Data Encryption Standard)
+
+**2. Asymmetric Encryption**
+
+Definition:- Asymmetric encryption uses two keys: a public key and a private key.
+
+Public key is used for encryption
+
+Private key is used for decryption
+
+How It Works
+
+Sender encrypts data using receiver’s public key
+
+Receiver decrypts data using their private key
+
+Advantages:-
+
+More secure than symmetric encryption
+
+No need to share private key
+
+Disadvantages:-
+
+Slower than symmetric encryption
+
+Uses more system resources
+
+Examples of Asymmetric Algorithms:-
+
+RSA
+
+ECC (Elliptic Curve Cryptography)
+
+**3. Hashing**
+
+Definition:- Hashing is a one-way process that converts data into a fixed-length hash value. It cannot be reversed.
+
+Purpose:-
+
+Ensures data integrity
+
+Used for password storage
+
+Example:-
+
+Input:
+
+password123
+
+Hash Output:
+
+ef92b778ba... (example hash)
+
+Characteristics:-
+
+One-way function
+
+Fixed output length
+
+Same input produces same output
+
+Examples of Hashing Algorithms:-
+
+MD5
+
+SHA-1
+
+SHA-256
+
+**3. SSL/TLS (Secure Sockets Layer / Transport Layer Security)**
+
+Definition:- SSL/TLS is a protocol used to secure communication between a client and a server by encrypting data.
+
+Purpose:-
+
+Protects data during transmission
+
+Ensures secure internet communication
+
+Example:-
+
+Secure website:
+
+https://example.com
+
+The "S" in HTTPS indicates SSL/TLS protection.
+
+How It Works
+
+Client connects to server
+
+Server provides SSL/TLS certificate
+
+Secure encrypted connection is established
+
+Data is transmitted securely
+
+**Importance in Cybersecurity**
+
+Protects passwords and sensitive data
+
+Prevents data interception
+
+Ensures secure web communication
