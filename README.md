@@ -507,7 +507,7 @@ dpkg -l
 
 Use Case:- Install or list locally downloaded packages.
 
-**3.Networking Commands**
+**4.Networking Commands**
 
 Networking commands help monitor and troubleshoot network connections.
 
