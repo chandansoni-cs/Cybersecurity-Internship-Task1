@@ -561,7 +561,7 @@ These Linux fundamentals form the base for system administration and cybersecuri
 Networking is the process of connecting computers and devices to share data and resources. It is a fundamental concept in cybersecurity and system communication.
 
 
-**OSI Model (Open Systems Interconnection Model)**
+**1. OSI Model (Open Systems Interconnection Model)**
 
 The OSI Model is a conceptual framework used to understand how data is transmitted over a network. It consists of 7 layers, each with a specific function.
 
